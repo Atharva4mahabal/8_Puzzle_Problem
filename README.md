@@ -1,2 +1,5 @@
-# 8_Puzzle_Problem
-A 3 by 3 board with 8 tiles (each tile has a number from 1 to 8) and a single empty space is provided. The goal is to use the vacant space to arrange the numbers on the tiles such that they match the final arrangement. Four neighbouring (left, right, above, and below) tiles can be moved into the available area.
+The 8-puzzle is a classic sliding puzzle that is played on a 3x3 grid with eight numbered tiles and one empty space. The objective of the game is to rearrange the tiles from their initial configuration into a target or goal configuration by sliding them one at a time into the empty space. The tiles can only be moved into adjacent empty spaces (horizontally or vertically, but not diagonally), and the empty space can only be occupied by a single tile at a time.
+
+The initial configuration and target configuration can vary, but typically, the initial configuration is a randomly shuffled arrangement of the eight tiles, and the target configuration is the tiles arranged in ascending order, usually from 1 to 8, with the empty space at a specific location.
+
+The 8-puzzle is a simple yet challenging game that requires problem-solving and strategy to find a solution, and it has been used as a benchmark problem in the study of artificial intelligence and search algorithms, including the A* search algorithm. It's a popular puzzle that can be found in various forms in puzzle books, mobile apps, and educational settings.
